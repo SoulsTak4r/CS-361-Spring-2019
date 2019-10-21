@@ -1,9 +1,6 @@
 /*
 	Hamza Amjad
-	hamjad2
 	Homework 6 - Derby
-
-
 */
 
 /* buffer.h */
