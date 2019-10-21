@@ -1,7 +1,5 @@
 /*
     Hamza Amjad
-    hamjad2
-    677562545
 
     Homework 5
 
